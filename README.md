@@ -1,4 +1,6 @@
-Online Retail Dataset One-Page Summary Report Prepared by Allen Niyonzima | AnalystLab Africa — Data Analytics Internship Dataset Overview
+Online Retail Dataset One-Page Summary Report
+Prepared by Allen Niyonzima |
+AnalystLab Africa — Data Analytics Internship Dataset Overview
 The Online Retail dataset contains 541,909 transaction records across 8 columns, capturing UK-based ecommerce sales including invoice details, product descriptions, quantities, unit prices, customer IDs, and country of purchase.
 Cleaning Challenges Encountered
 A substantial number of records were missing CustomerID values and were removed, since transactions could not be reliably attributed without them. The dataset also contained negative and zero values in Quantity and UnitPrice, largely representing cancelled orders (identifiable by invoice numbers starting with "C"), which were separated from valid sales. Several non-product stock codes (e.g., postage, bank charges) were identified and excluded to keep the analysis focused on genuine product sales. Column names and text fields were also standardized for consistency before analysis.
