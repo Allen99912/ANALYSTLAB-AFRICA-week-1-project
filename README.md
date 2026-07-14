@@ -11,9 +11,13 @@ A substantial number of records were missing CustomerID values and were removed,
 Key EDA Findings
 
 ❖ The United Kingdom accounts for approximately 89.5% of total revenue, making it by far the dominant market.
+
 ❖ Monthly revenue shows strong seasonality, rising sharply from September and peaking in November at roughly £860,000.
+
 ❖ The average unit price sits well under £5, reflecting a catalogue of small, affordable items rather than premium goods.
+
 ❖ Customer spending is highly uneven — average spend (£1,368) is far above the median (£575), indicating a small number of high-value customers.
+
 ❖ “White Hanging Heart T-Light Holder” and “Assorted Colour Bird Ornament” are consistently among the top-selling products by both quantity and order frequency.
 
 Top Insights
